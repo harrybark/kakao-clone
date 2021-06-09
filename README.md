@@ -1,5 +1,7 @@
 # Kakao Clone
+
+## HTML & CSS are so mush fun.
 <hr/>
-<br>[ ] : CSS
-<br>[ ] : HTML5
+<br>[x] : CSS
+<br>[x] : HTML5
 
