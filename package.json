@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
+  ,"homepage": "https://harrybark.github.io/kakao-clone/"
+  ,"script": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  }
+}
