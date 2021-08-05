@@ -1,0 +1,22 @@
+
+.badge {
+    display: flex;
+    background-color: tomato;
+    color: white;
+    font-weight: 600;
+    width: 30px;
+    height: 30px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+
+.mini__badge {
+    position: absolute;
+    background-color : tomato;
+    width:5px;
+    height:5px;
+    border-radius: 50%;
+    top: -7px;
+    right: -7px;
+}

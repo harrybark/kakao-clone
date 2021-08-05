@@ -1,6 +1,7 @@
 @charset "UTF-8";
 
 .status-bar {
+    width: 100%;
     display: flex;
     justify-content: center;
     padding: 5px 3px;
@@ -11,7 +12,7 @@
 }
 
 .status-bar .status_bar__column {
-    width : 33.33%;
+    width : 33%;
 }
 
 .status-bar .status_bar__column:nth-child(2){
